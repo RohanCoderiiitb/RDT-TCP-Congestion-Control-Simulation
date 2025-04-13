@@ -80,7 +80,7 @@ Modify these values in the `main()` function of each script.
 
 ## Deliverables
 - Source code files (`rdt_2.2.py`, `rdt_3.0.py`, `tcp_tahoe.py`, `tcp_reno.py`).
-- A `report.pdf` (to be added) including:
+- A `report.pdf` including:
   - Description of each implementation.
   - Rationale for parameter choices (e.g., error rates, timer duration).
   - Sample console outputs and graphical results for TCP.
