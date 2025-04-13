@@ -4,7 +4,7 @@
 
 This repository contains implementations of the following network protocols as part of a programming assignment:
 - **RDT 2.2 (NAK-Free Reliable Data Transfer) Protocol**
-- **RDT 3.0 (Reliable Data Transfer Over a Lossy Channel) Protocol**
+- **RDT 3.0 (Reliable Data Transfer Over a Lousy Channel) Protocol**
 - **TCP Tahoe Congestion Control Mechanism**
 - **TCP Reno Congestion Control Mechanism**
 
